@@ -4,7 +4,7 @@
 ![yalu-jailbreak-ios-10-3-1](https://user-images.githubusercontent.com/29992468/30249806-39cf1cbe-964c-11e7-86ad-6e11bdc18adc.png)
 1. git clone the repo.
 2. Open the repo in Xcode
-3. Change the bundle ID, as shown here
+3. Change the bundle ID
 4. Include the IOKit headers, and add them to your search path.
 5. Run the project.
 
