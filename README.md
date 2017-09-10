@@ -7,6 +7,13 @@
 3. Change the bundle ID
 4. Include the IOKit headers, and add them to your search path.
 5. Run the project.
+Installing
+
+DO NOT DOWNLOAD THIS SOFTWARE FROM OTHER SOURCES OTHER THAN THESE LINKS UNDER ANY CIRCUMSTANCE. IT IS VERY EASY TO BACKDOOR THIS SORT OF SOFTWARE TO CONTAIN MALWARE. PLEASE BE EXTREMELY CAREFUL. THESE MIRRORS ARE TRUSTED, BUT STILL CHECK THE SHA1.
+Download the pre-compiled version from the table below.
+Check the SHA1 hash of the downloaded file (optional but recommended).
+Install using Cydia Impactor.
+Open the application and follow instructions.
 
 
 If you have any questions, feel free to ask for more information: Linnebergmai@gmail.com
