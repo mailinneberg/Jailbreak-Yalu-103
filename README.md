@@ -7,16 +7,30 @@
 3. Change the bundle ID
 4. Include the IOKit headers, and add them to your search path.
 5. Run the project.
-Installing
 
-DO NOT DOWNLOAD THIS SOFTWARE FROM OTHER SOURCES OTHER THAN THESE LINKS UNDER ANY CIRCUMSTANCE. IT IS VERY EASY TO BACKDOOR THIS SORT OF SOFTWARE TO CONTAIN MALWARE. PLEASE BE EXTREMELY CAREFUL. THESE MIRRORS ARE TRUSTED, BUT STILL CHECK THE SHA1.
+## Supported Devices and iOS versions
 
-Download the pre-compiled version from the table below.
+| Device | Version |
+|---------|----------|
+| iPad Pro  | iOS 10.0.0 -> iOS 10.2 |
+| iPhone 6S  | iOS 10.0.0 -> iOS 10.2 |
+| iPhone SE  | iOS 10.0.0 -> iOS 10.2 |
+| iPhone 5S  | iOS 10.0.0 -> iOS 10.2 |
+| iPad Air| iOS 10.0.0 -> iOS 10.2 |
+| iPad Mini 2| iOS 10.0.0 -> iOS 10.2 |
+| iPhone 6  | iOS 10.0.0 -> iOS 10.2 |
+| iPad Mini 3| iOS 10.0.0 -> iOS 10.2 |
+| iPad Air 2| iOS 10.0.0 -> iOS 10.2 |
+| iPad Mini 4 | iOS 10.0.0 -> iOS 10.2 |
+| iPod touch (6G)  | iOS 10.0.0 -> iOS 10.2 |
 
-Check the SHA1 hash of the downloaded file (optional but recommended).
+## Installing
 
-Install using Cydia Impactor.
+> DO NOT DOWNLOAD THIS SOFTWARE FROM OTHER SOURCES OTHER THAN THESE LINKS UNDER ANY CIRCUMSTANCE. IT IS VERY EASY TO BACKDOOR THIS SORT OF SOFTWARE TO CONTAIN MALWARE. PLEASE BE EXTREMELY CAREFUL. THESE MIRRORS ARE TRUSTED, BUT STILL CHECK THE SHA1.
 
-Open the application and follow instructions.
+* Download the pre-compiled version from the table below.
+* [Check the SHA1 hash](http://onlinemd5.com) of the downloaded file (optional but recommended).
+* Install using [Cydia Impactor](http://www.cydiaimpactor.com/).
+* Open the application and follow instructions.
 
 If you have any questions, feel free to ask for more information: Linnebergmai@gmail.com
