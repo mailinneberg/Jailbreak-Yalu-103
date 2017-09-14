@@ -1,6 +1,12 @@
 # Jailbreak Yalu 102 
+
+- Join or Ask: Linnebergmai@gmail.com
+- Broadpwn: https://goo.gl/xWC4hg Youtube: https://youtu.be/GTb4Y2Y9shw
+- BlueBorne: https://goo.gl/PSDuwY | Youtube https://youtu.be/FJGGMyg0W38
+- Help PR.
+
 ![appicon60x60 3x](https://user-images.githubusercontent.com/29992468/30249765-83a67cf2-964b-11e7-82b9-50dcaa4c4daf.png)
-## If you developer join to my team and help us: Linnebergmai@gmail.com
+## If you developer join to my team and help us: 
 ![yalu-jailbreak-ios-10-3-1](https://user-images.githubusercontent.com/29992468/30249806-39cf1cbe-964c-11e7-86ad-6e11bdc18adc.png)
 1. git clone the repo.
 2. Open the repo in Xcode
