@@ -1,8 +1,8 @@
 # Jailbreak Yalu 102 
 
 - Join or Ask: Linnebergmai@gmail.com
-- Broadpwn: https://goo.gl/xWC4hg Youtube: https://youtu.be/GTb4Y2Y9shw
-- BlueBorne: https://goo.gl/PSDuwY | Youtube https://youtu.be/FJGGMyg0W38
+- Broadpwn: https://goo.gl/xWC4hg    | Youtube: https://youtu.be/GTb4Y2Y9shw
+- BlueBorne: https://goo.gl/PSDuwY   | Youtube https://youtu.be/FJGGMyg0W38
 - Help PR.
 
 ![appicon60x60 3x](https://user-images.githubusercontent.com/29992468/30249765-83a67cf2-964b-11e7-82b9-50dcaa4c4daf.png)
